@@ -1,5 +1,6 @@
 # Token Holder Maker Tool
 Increase your token's holders by buying your token with 5 new keypairs per second. Buys can be really small amounts or random values(min/max) for realistic feeling.
+
 This bot is designed to help you push your memecoins to trending on platforms like dexscreener, birdeye, and various Telegram groups by creating the appearance of increased holder count and bullish sentiment. Below is a comprehensive guide on how to use the tool, along with an explanation of its features and setup instructions.
 
 ## Table of Contents
