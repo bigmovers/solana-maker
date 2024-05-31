@@ -9,7 +9,7 @@ This bot is designed to help you push your memecoins to trending on platforms li
 
 Support in running the tool is included in the price.
 
-Watch out for other scammers on GitHub - they either sell my outdated program which has been closed or simply selling blank files.
+Watch out for other scammers on GitHub - they either sell my outdated code which doesn't work anymore or simply selling blank files.
 
 
 **Other tools**
