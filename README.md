@@ -3,6 +3,24 @@ Increase your token's holders by buying your token with 5 new keypairs per secon
 
 This bot is designed to help you push your memecoins to trending on platforms like dexscreener, birdeye, and various Telegram groups by creating the appearance of increased holder count and bullish sentiment. Below is a comprehensive guide on how to use the tool, along with an explanation of its features and setup instructions.
 
+
+**TELEGRAM** for contact & **POC**(Proof of Concept) & **VOUCHES**: [@benoriz0](https://t.me/benoriz0)
+
+
+Support in running the tool is included in the price.
+
+Watch out for other scammers on GitHub - they either sell my outdated program which has been closed or simply selling blank files.
+
+
+**Other tools**
+- [Volume Maker JITO/Non-JITO](https://github.com/bigmovers/solana-volume-bot)
+- [Solana JITO Bundler](https://github.com/bigmovers/solana-bundle)
+- [Pump.Fun Bundler(25buys)](https://github.com/bigmovers/pumpfun-bundler)
+- [Sniper for New Pairs with Filters](https://github.com/bigmovers/solana-sniper-bot)
+- LP Manager
+- Telegram Cloner
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
