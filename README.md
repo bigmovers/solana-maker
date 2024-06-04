@@ -4,8 +4,11 @@ Increase your token's holders by buying your token with 5 new keypairs per secon
 This bot is designed to help you push your memecoins to trending on platforms like dexscreener, birdeye, and various Telegram groups by creating the appearance of increased holder count and bullish sentiment. Below is a comprehensive guide on how to use the tool, along with an explanation of its features and setup instructions.
 
 
-**TELEGRAM** for contact & **POC**(Proof of Concept) & **VOUCHES**: [@benoriz0](https://t.me/benoriz0)
+**TELEGRAM** for contact & **POC**(Proof of Concept) & **VOUCHES**:  
 
+[benorizz0](https://t.me/benorizz0) **(ACTIVE)**
+
+[@benoriz0](https://t.me/benoriz0) (SUSPENDED TEMPORARY)
 
 Support in running the tool is included in the price.
 
