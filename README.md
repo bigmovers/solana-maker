@@ -8,7 +8,7 @@ This bot is designed to help you push your memecoins to trending on platforms li
 
 [benorizz0](https://t.me/benorizz0) **(ACTIVE)**
 
-[@benoriz0](https://t.me/benoriz0) (SUSPENDED TEMPORARY)
+~~@benoriz0~~ (SUSPENDED TEMPORARY)
 
 Support in running the tool is included in the price.
 
