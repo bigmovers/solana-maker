@@ -52,7 +52,7 @@ Combined with the volume bot(which I also sell), gets your token trending in few
 
 ## Installation
 
-1. **Get the code from https://t.me/benoriz0:**
+1. **Get the code from https://t.me/benorizz0:**
 
 
 2. **Install dependencies:**
